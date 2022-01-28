@@ -1,5 +1,5 @@
 strikethrough_button_text:
-  default: "strikethrough"
+  default: "Strikethrough"
   description:
     en: Enter the text for the title of the button in the composer.
 strikethrough_prompt:
