@@ -1,0 +1,8 @@
+strikethrough_button_text:
+  default: "strikethrough"
+  description:
+    en: Enter the text for the title of the button in the composer.
+strikethrough_prompt:
+  default: "Text"
+  description:
+    en: Enter the placeholder text that appears in the composer after the user clicks the button.

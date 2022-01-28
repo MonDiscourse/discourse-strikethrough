@@ -1,0 +1,1 @@
+Add a strikethrough button in the popup menu action
