@@ -6,3 +6,10 @@ strikethrough_prompt:
   default: "Text"
   description:
     en: Enter the placeholder text that appears in the composer after the user clicks the button.
+
+Svg_icons: 
+  type: 'list'
+  list_type: 'compact'
+  default: 'fa-strikethrough'
+  description: 
+    en: "Include FontAwesome 5 icon classes for each icon used in the list."
