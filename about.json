@@ -1,15 +1,9 @@
 {
-  "name": "Strikethrough",
+  "name": "Discourse strikethrough",
   "component": true,
   "license_url": null,
-  "about_url": "https://github.com/MonDiscourse/discourse-strikethrough",
-  "authors": "Steven (Mon-Discourse)",
-  "theme_version": "1.0",
-  "minimum_discourse_version": null,
-  "maximum_discourse_version": null,
-  "assets": {
-  },
-  "color_schemes": {
-  },
+  "about_url": "https://www.mon-discourse.fr",
+  "authors": "Steven",
+  "theme_version": "2.0",
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }
