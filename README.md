@@ -1,1 +1,1 @@
-Add a strikethrough button in the popup menu action
+Add a strikethrough button in the composer toolbar
