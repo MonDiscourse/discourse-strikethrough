@@ -13,7 +13,7 @@ function getRawText(text) {
   return text.replace(/\[.*?\]/g, '');
 }
 
-export default apiInitializer("0.11.1", (api) => {
+export default apiInitializer((api) => {
   const { iconNode } = require("discourse-common/lib/icon-library");
   const currentLocale = I18n.currentLocale();
 
@@ -30,8 +30,9 @@ export default apiInitializer("0.11.1", (api) => {
         icon: "strikethrough",
         title: "strikethrough_button_title",
         perform: (e) => e.applySurround("<s>", "</s>", "strikethrough_text"),
-      },
+      }
     ];
 
     buttons.forEach((button) => toolbar.addButton(button));
+  });
   });
